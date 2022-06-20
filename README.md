@@ -2,26 +2,28 @@
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
-## I am a M.Sc. Student of Computer Science and Engineering
+I am a M.Sc. Student of Computer Science and Engineering at Politecnico di Milano.  
+I am currently exploring and studying:
 
-- 📚 I am currently learning about ML/AI and Recommender Systems.
-<!--
-- 💪🏼 Future Goals: become a PhD student in a top university.
-- ⚡ Fun fact: in high school I specialized in humanities.
--->
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Tiny Machine Learning
+- Recommender Systems
 
 ---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=LorenzoMainetti"/>
 
 ### Get in touch with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="40px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][Instagram]
 
-<br />
+<br />  
+<br />  
 
 ---
+
 
 ### Languages and Tools 🛠 
 
@@ -51,13 +53,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<br/>
-
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
      <a href="">
@@ -68,7 +66,6 @@
     </a>
 </div
 
-<br/>
 
 [linkedin]: https://www.linkedin.com/in/lorenzo-mainetti
 [Instagram]: https://www.instagram.com/lorenzo_mainetti/
