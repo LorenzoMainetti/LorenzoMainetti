@@ -1,4 +1,4 @@
-# Hi there, I'm Lorenzo 👋
+# Hi there, I'm Lorenzo
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
