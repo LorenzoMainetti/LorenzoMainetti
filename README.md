@@ -14,18 +14,16 @@ I am currently exploring and studying:
 ---
 
 
-### Get in touch with me 📝
+### Get in touch with me 
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="40px" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][Instagram]
-
-<br />  
-<br />  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzo.mainetti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-mainetti)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lorenzo_mainetti/)
 
 ---
 
 
-### Languages and Tools 🛠 
+### Languages and Tools 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -55,7 +53,7 @@ I am currently exploring and studying:
 
 ---
 
-<h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Github Statistics </h2>
   
   <div align="center"> 
      <a href="">
@@ -66,9 +64,6 @@ I am currently exploring and studying:
     </a>
 </div
 
-
-[linkedin]: https://www.linkedin.com/in/lorenzo-mainetti
-[Instagram]: https://www.instagram.com/lorenzo_mainetti/
 
 <!--
 **LorenzoMainetti/LorenzoMainetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
