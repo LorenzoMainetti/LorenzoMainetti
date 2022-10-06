@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
-I am a M.Sc. Student of Computer Science and Engineering at Politecnico di Milano.  
+I am Computer Science and Engineering MSc student at Politecnico di Milano.  
 I am currently exploring and studying:
 
 - Artificial Intelligence
@@ -44,6 +44,7 @@ I am currently exploring and studying:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -53,14 +54,14 @@ I am currently exploring and studying:
 
 ---
 
-<h2 align="center"> Github Statistics </h2>
+ ### Github Statistics
   
-  <div align="center"> 
+  <div align="left"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LorenzoMainetti&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LorenzoMainetti&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMainetti&theme=react&line_height=40&hide=css"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMainetti&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
