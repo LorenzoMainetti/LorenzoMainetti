@@ -26,7 +26,7 @@ My other interests are:
 - [`Deep Learning Challenges`](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
 - [`UrbanHunt Mobile App`](https://github.com/fulcus/urbanhunt) : Flutter/Firebase App to discover interesting places around you, using crowdsourcing
 - [`Santorini`](https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava) : Client-Server version of Santorini board game (GUI + CLI)
-- [`Gamified-WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
+- [`Gamified WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
 - [`Data Structures Project`](https://github.com/LorenzoMainetti/API-2019-FinalProject) : System for monitoring Relationships between Entities
 
 ---
