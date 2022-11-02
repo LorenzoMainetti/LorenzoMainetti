@@ -4,7 +4,7 @@
 
 I am  a Computer Science and Engineering MSc student at Politecnico di Milano.
 
-I am currently carrying on the research for my **Master's Thesis** about **Tiny Machine Learning** consisting in developing algorithms for detection and classification of wood boring insects in living trees based on audio signals sensed through piezo-electric transducers.
+I am currently carrying on the research for my **Master's Thesis** about **Tiny Machine Learning**, consisting in developing algorithms for detection and classification of wood boring insects in living trees based on audio signals sensed through piezo-electric transducers.
 
 My other interests are:
 
