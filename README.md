@@ -2,14 +2,32 @@
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
-I am Computer Science and Engineering MSc student at Politecnico di Milano.  
-I am currently exploring and studying:
+I am  a Computer Science and Engineering MSc student at Politecnico di Milano.
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Tiny Machine Learning
-- Recommender Systems
+I am currently carrying on the research for my **Master's Thesis** about **Tiny Machine Learning** consisting in developing algorithms for detection and classification of wood boring insects in living trees based on audio signals sensed through piezo-electric transducers.
+
+My other interests are:
+
+> Artificial Intelligence
+
+> Machine Learning
+
+> Deep Learning
+
+> Recommender Systems
+
+---
+
+
+### Interesting Projects
+
+- [`ACM RecSys2022 Challenge`](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team) : Fashion Domain Session-Based Recommender System
+- [`RecSys2021 Polimi Challenge`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
+- [`Deep Learning Challenges`](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
+- [`UrbanHunt Mobile App`](https://github.com/fulcus/urbanhunt) : Flutter/Firebase App to discover interesting places around you, using crowdsourcing
+- [`Santorini`](https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava) : Client-Server version of Santorini board game (GUI + CLI)
+- [`Gamified-WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
+- [`Data Structures Project`](https://github.com/LorenzoMainetti/API-2019-FinalProject) : System for monitoring Relationships between Entities
 
 ---
 
@@ -51,8 +69,9 @@ I am currently exploring and studying:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+<!--
 ---
+
 
  ### Github Statistics
   
@@ -64,7 +83,7 @@ I am currently exploring and studying:
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoMainetti&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-
+-->
 
 <!--
 **LorenzoMainetti/LorenzoMainetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
