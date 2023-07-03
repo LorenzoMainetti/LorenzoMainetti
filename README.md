@@ -21,6 +21,7 @@ My other interests are:
 
 ### Interesting Projects
 
+- [`TinyML for Wood Borers`](https://github.com/LorenzoMainetti/tinyML-for-wood-borers) : Detection and Classification of Wood-Boring Insects with TinyML
 - [`ACM RecSys2022 Challenge`](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team) : Fashion Domain Session-Based Recommender System
 - [`RecSys2021 Polimi Challenge`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
 - [`Deep Learning Challenges`](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
