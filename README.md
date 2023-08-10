@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
-I am  a Computer Science and Engineering MSc student at Politecnico di Milano.
+I am a recent graduate in Computer Science and Engineering at Politecnico di Milano.
 
-I am currently carrying on the research for my **Master's Thesis** about **Tiny Machine Learning**, consisting in developing algorithms for detection and classification of wood boring insects in living trees, based on audio signals sensed through piezo-electric transducers.
+My **Master's Thesis** focused on **Tiny Machine Learning**, specifically in developing algorithms for detection and classification of wood-boring insects in living trees, based on audio signals sensed through piezo-electric transducers.
 
 My other interests are:
 
