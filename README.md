@@ -22,13 +22,13 @@ My other interests are:
 ### Interesting Projects
 
 - [`TinyML for Wood Borers`](https://github.com/LorenzoMainetti/tinyML-for-wood-borers) : Detection and Classification of Wood-Boring Insects with TinyML
-- [`ACM RecSys2022 Challenge`](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team) : Fashion Domain Session-Based Recommender System
-- [`RecSys2021 Polimi Challenge`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
-- [`Deep Learning Challenges`](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
+- [`ACM RecSys 2022 Challenge`](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team) : Fashion Domain Session-Based Recommender System
+- [`Polimi RecSys 2021 Challenge`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
+- [`Computer Vision Challenges`](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
 - [`UrbanHunt Mobile App`](https://github.com/fulcus/urbanhunt) : Flutter/Firebase App to discover interesting places around you, using crowdsourcing
 - [`Santorini`](https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava) : Client-Server version of Santorini board game (GUI + CLI)
 - [`Gamified WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
-- [`Data Structures Project`](https://github.com/LorenzoMainetti/API-2019-FinalProject) : System for monitoring Relationships between Entities
+- [`Entity Relationship Handler`](https://github.com/LorenzoMainetti/API-2019-FinalProject) : System for monitoring Relationships between Entities writte in C
 
 ---
 
