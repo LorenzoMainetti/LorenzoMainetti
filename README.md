@@ -28,7 +28,7 @@ My other interests are:
 - [`UrbanHunt Mobile App`](https://github.com/fulcus/urbanhunt) : Flutter/Firebase App to discover interesting places around you, using crowdsourcing
 - [`Santorini`](https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava) : Client-Server version of Santorini board game (GUI + CLI)
 - [`Gamified WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
-- [`Entity Relationship Handler`](https://github.com/LorenzoMainetti/API-2019-FinalProject) : System for monitoring Relationships between Entities writte in C
+- [`Entity Relationship Handler`](https://github.com/LorenzoMainetti/API-2019-FinalProject) : System for monitoring Relationships between Entities written in C
 
 ---
 
