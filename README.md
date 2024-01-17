@@ -4,17 +4,11 @@
 
 I am a recent graduate in Computer Science and Engineering from Politecnico di Milano.
 
-My **Master's Thesis** focused on **Tiny Machine Learning**, specifically in developing algorithms for detection and classification of wood-boring insects in living trees, based on audio signals sensed through piezo-electric transducers.
+I am currently working as a Freelance Data Scientist at [ContentWise](https://www.contentwise.com/) and building an Automatic License Plate Recognition system for a client.
 
-My other interests are:
+My **Master's Thesis** focused on **Tiny Machine Learning**, specifically in developing algorithms for wood-boring insect identification in living trees, based on audio signals sensed through piezo-electric transducers.
 
-> Artificial Intelligence
-
-> Machine Learning
-
-> Deep Learning
-
-> Recommender Systems
+My interests go from Machine and Deep Learning to Software Engineering and I am actively looking for full-time opportunities in both these fields.
 
 ---
 
