@@ -2,13 +2,11 @@
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
-I am a recent graduate in Computer Science and Engineering from Politecnico di Milano.
+I currently work as Software Delevopment Engineer at **Amazon** and I am part of the marketplace expansion team in Luxembourg.
 
-I am currently working as a Freelance Data Scientist at [ContentWise](https://www.contentwise.com/) and building an Automatic License Plate Recognition system for a client.
+I worked as a Freelance Data Scientist at [ContentWise](https://www.contentwise.com/) and built an *Automatic License Plate Recognition* system for a client.
 
-My **Master's Thesis** focused on **Tiny Machine Learning**, specifically in developing algorithms for wood-boring insect identification in living trees, based on audio signals sensed through piezo-electric transducers.
-
-My interests go from Machine and Deep Learning to Software Engineering and I am actively looking for full-time opportunities in both these fields.
+I graduated in Computer Science and Engineering from **Politecnico di Milano**. My Master's Thesis focused on *Tiny Machine Learning*, specifically in developing algorithms for wood-boring insect identification in living trees, based on audio signals sensed through piezo-electric transducers.
 
 ---
 
