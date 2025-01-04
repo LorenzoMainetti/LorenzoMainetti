@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="250px" src="https://www.affde.com/uploads/article/158344/532jUrDPJ8adiaMB.gif" />
 
-I currently work as Software Delevopment Engineer at **Amazon** and I am part of the marketplace expansion team in Luxembourg.
+I currently work as Software Development Engineer at **Amazon** and I am part of the marketplace expansion team in Luxembourg.
 
 I worked as a Freelance Data Scientist at [ContentWise](https://www.contentwise.com/) and built an *Automatic License Plate Recognition* system for a client.
 
